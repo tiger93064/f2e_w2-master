@@ -30,9 +30,8 @@ This is a starter template for testing new building tools for vue. This template
 - `yarn build` builds web application and package .
 
 ## Environment
-- OS: macOS 12.1 x64
-- Node: 16.
-- `package.json`
+- OS:    macOS 12.1 x64
+- Node:  16.13.1
 
 ## License
 Do whatever you want with it!
