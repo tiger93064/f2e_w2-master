@@ -30,7 +30,6 @@ This is a starter template for those who want to make a desktop application with
 
 - `yarn build` builds web application and packages them with tauri in `src-tauri/target`
 
-- `yarn build:web` only builds the web application and puts it in `./dist` directory. You should not normally want this. Difference of this web app with the one build with normal `yarn build` is that this one uses axios for network calls.
 
 ## License
 Do whatever you want with it!
