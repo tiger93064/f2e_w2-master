@@ -22,14 +22,17 @@ This is a starter template for testing new building tools for vue. This template
   - `package.json`
   - `public/favicon.ico`
   - `src/assets/logo.*`
-  - `src-tauri/tauri.conf.json`
 
 ## Usage
 
 - `yarn serve` launches vite and you can test and develop your app in the browser at `http://localhost:8080`.
 
-- `yarn build` builds web application and packages them with tauri in `src-tauri/target`
+- `yarn build` builds web application and package .
 
+## Environment
+- OS: macOS 12.1 x64
+- Node: 16.
+- `package.json`
 
 ## License
 Do whatever you want with it!

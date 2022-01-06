@@ -10,7 +10,7 @@
         <v-col align-self="center">
           <v-row justify="center" align="center">
             <v-col md="12">
-              <v-card @click="$router.push('/')" color="transparent">
+              <v-card @click="$router.push('/')" color="transparent" class="elevation-0">
                 <div class="ml-10">
                   <svg width="203" height="48" viewBox="0 0 203 48" fill="none" xmlns="http://www.w3.org/2000/svg">
                     <path fill-rule="evenodd" clip-rule="evenodd" d="M25.5662 0.000964586C31.1379 0.0645677 36.7806 2.64012 40.3044 6.91835C43.5126 10.8133 41.8059 16.513 43.1582 21.3593C44.4177 25.873 48.6131 29.5921 47.9241 34.2253C47.1973 39.1125 43.7576 43.4685 39.4906 46.0211C35.3906 48.4739 30.32 48.1746 25.5662 47.6003C21.3011 47.085 17.6976 44.9365 13.9075 42.9303C9.40028 40.5445 3.72511 39.3173 1.39885 34.8081C-1.02739 30.105 0.10925 24.3804 1.74427 19.3529C3.38229 14.3161 6.44999 9.93353 10.5793 6.57903C14.911 3.0602 19.966 -0.0629644 25.5662 0.000964586Z" fill="url(#paint0_radial_100_1922)"/>
