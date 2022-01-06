@@ -1,5 +1,5 @@
-# Vite Tauri Template
-This is a starter template for those who want to make a desktop application with web technologies. This template uses the below stack.
+# Vite Template
+This is a starter template for testing new building tools for vue. This template uses the below stack.
 
 ## Vite.js
 [Vite.js](https://vitejs.dev/) is a new modern bundler for javascript which is blazing fast and includes many sensible defaults.
